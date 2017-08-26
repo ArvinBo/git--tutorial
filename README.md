@@ -1,4 +1,4 @@
 Git lesson
 
- - feature-A
-
+  - feature-A
+  - fix-B
